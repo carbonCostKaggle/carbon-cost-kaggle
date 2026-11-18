@@ -2,7 +2,7 @@
 Investigating the carbon cost of kaggle competitions
 
 This project contains the data produced in our investigation of the carbon footprint of ML competitions, and our subsequent analysis.
-For further information on our motivations behind this research, and our analysis, please check out the final report [here](https://github.com/carbonCostKaggle/carbon-cost-kaggle/blob/main/report/final_report.pdf).
+For further information on our motivations behind this research, and our analysis, please check out the final report [here](https://github.com/carbonCostKaggle/carbon-cost-kaggle/blob/main/report/Carbon_Cost_Kaggle_Report.pdf).
 
 # Repo Structure
 [img](https://github.com/carbonCostKaggle/carbon-cost-kaggle/tree/main/img): Images from analysis, some of which are used in the report.<br>
